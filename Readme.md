@@ -2,4 +2,4 @@
 ### First Assignment
 
 Name : Niveen Smadi
-Note : Fuck you 
+Note : Udemy course (Git and Gitub)
