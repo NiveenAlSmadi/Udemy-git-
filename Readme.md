@@ -1,4 +1,4 @@
-## Udemy-Git Course
+## Udemy- introduction to Git Course
 ### First Assignment
 
 Name : Niveen Smadi
